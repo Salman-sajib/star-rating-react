@@ -1,8 +1,11 @@
-# React + Vite
+# React Star Rating Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small React component that allows users to rate something using star icons.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can install this component using npm:
+
+```bash
+npm install react-icons nanoid react
+
