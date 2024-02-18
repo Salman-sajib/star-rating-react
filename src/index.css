@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: #252525;
+}
