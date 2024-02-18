@@ -2,10 +2,8 @@ import { CiStar } from 'react-icons/ci';
 
 function App() {
   return (
-    <div>
-      <h1>
-        Hello <CiStar />{' '}
-      </h1>
+    <div className='app'>
+      <h1>Rate This</h1>
     </div>
   );
 }
